@@ -1,4 +1,4 @@
-# Cylindrical Drawing Robot
+# 2D Image Printer Robot
 
 ## Overview
 This project presents the design and implementation of a robotic system capable of drawing a 2D image onto the curved surface of a cylinder. Inspired by the operating principles of dot matrix printers, the robot integrates mechanical design, image processing, and embedded motor control to convert a digital image into a physical drawing.
