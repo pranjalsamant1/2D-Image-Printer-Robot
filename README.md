@@ -29,7 +29,7 @@ The robot consists of:
 
 The design minimizes vibration and mechanical drag to improve drawing accuracy.
 
-![CAD Overview](images/cad_system_overview.png)
+![CAD Overview](images/cad_system_overview.jpg)
 
 ---
 
@@ -40,7 +40,7 @@ The control system is centered around an Arduino Uno and includes:
 - A micro-servo motor (pen contact control)
 - An H-bridge motor driver for stepper control
 
-![Electrical Schematic](images/electrical_schematic.png)
+![Electrical Schematic](images/electrical_schematic.jpg)
 
 ---
 
@@ -54,7 +54,7 @@ Image processing is implemented in MATLAB and follows these steps:
 
 The processed pixel coordinates are transferred to the Arduino for motor control.
 
-![Image Processing Result](images/image_pipeline_result.png)
+![Image Processing Result](images/image_pipeline_result.jpg)
 
 ---
 
